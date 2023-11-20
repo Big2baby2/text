@@ -1,0 +1,25 @@
+body{
+    
+}
+
+button{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+}
+
+span{
+    color: yellowgreen;
+}
+
+#big-container{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.smaill-container{
+    width: 350px;
+    padding: 10px;
+    margin: 10px;
+}
